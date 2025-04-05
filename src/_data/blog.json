@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "slug": "2019-10-18",
+      "headline": "It was a dark and stormy night",
+      "date": "Oct. 18, 2019",
+      "image": "kraken01.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Sea Legs lee grog blossom capstan <a href=\"https://en.wikipedia.org/wiki/Portuguese_man_o%27_war\">Man-of-war</a> mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
+        },
+        {
+          "type": "text",
+          "value": "Ballast parrel chantey walk the plank gabion ho log overhaul Plate Fleet maroon. Lugger deadlights Yellow Jack provost schooner reef knave pressgang bilge capstan. Black jack belaying pin gally trysail take a caulk yawl bowsprit schooner boatswain overhaul."
+        },
+        {
+          "type": "text",
+          "value": "Bounty Blimey rutters mutiny bilge hornswaggle keel matey grapple clap of thunder. Rope's end handsomely lanyard belaying pin no prey, no pay measured fer yer chains tender league man-of-war maroon. Doubloon ho bounty matey maroon strike colors knave coffer no prey, no pay careen."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-19",
+      "headline": "My white whale",
+      "date": "Oct. 19, 2019",
+      "image": "kraken02.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Hands Sink me fathom barkadeer nipper chase Spanish Main haul wind gangway clipper. Scuppers piracy hang the jib spanker wherry port overhaul bilge interloper lookout. Chantey yo-ho-ho furl gaff smartly come about provost barkadeer grapple landlubber or just lubber."
+        },
+        {
+          "type": "text",
+          "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+        },
+        {
+          "type": "text",
+          "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-20",
+      "headline": "Lost at sea",
+      "date": "Oct. 20, 2019",
+      "image": "kraken03.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "The sun’s fierce glare mocks me, high in the heavens, as our ship drifts aimlessly across this vast, empty stretch of water. The winds, once our trusty companions, have abandoned us, leaving only the slow creak of the wood beneath our feet. I stand at the helm, but the compass is little more than a trinket now—its needle spins in confusion, lost to the whims of the gods."
+        },
+        {
+          "type": "text",
+          "value": "We are adrift, like a phantom ship, forgotten by the world and swallowed whole by the endless horizon. The crew's spirits grow thin, like a ragged sail torn by the storm's fury, though they speak little of their fear. There are no stars to guide us, no land in sight for days. I fear we’ve gone off course, but where to? We are marooned in a sea of uncertainty, trapped between the mercy of Poseidon and the wrath of the unknown."
+        },
+        {
+          "type": "text",
+          "value": "The rationed stores are running low—hardtack and salted meat that no longer satisfy even the grumbling bellies of the crew. Water is scarce, and what we do have, I fear, may spoil. If the gods are kind, we'll find land soon. If not, we may see the black sails of our doom."
+        },
+        {
+          "type": "text",
+          "value": "I cannot shake the feeling that we’ve angered something, some ancient spirit of the sea, and that our fate is now tied to the tides. The men speak in hushed whispers of strange shadows in the water—visions of creatures larger than ships, of eyes that gleam like lanterns beneath the waves. I do not know if these are madness or truth, but I know this: if we do not find land soon, I fear that our names will be lost to the sea, as if we were never more than fleeting whispers on the wind."
+        }
+      ]
+    }
+  ]
+}
